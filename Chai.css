@@ -1,0 +1,41 @@
+body{
+    background-image: url(images\ \(42\).jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: pink;
+    background-color: black;
+}
+.menu{
+    text-align: center;
+    margin-left: 230px;
+    margin-right: 230px;
+}
+
+.flavor , .dessert{
+    text-align: left;
+    width:75%;
+}
+
+.price{
+    text-align: right;
+}
+
+.item p{
+    display: inline-block;
+}
+
+a{
+    color: aqua;
+}
+
+hr{
+    background-color: palevioletred;
+    height: 2px;
+}
+
+img{
+    height: 25px;
+}
+
+
+
